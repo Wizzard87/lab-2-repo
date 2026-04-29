@@ -1,7 +1,7 @@
 import subprocess
 import os
 ffmpeg_path = r"D:\ffmpeg\ffmpeg.exe"
-#файл изменен
+
 # 📁 Папка для сохранения
 save_folder = r"D:\Recordings\new"
 
