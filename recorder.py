@@ -1,6 +1,5 @@
 import subprocess
 import os
-import from os *
 ffmpeg_path = r"D:\ffmpeg\ffmpeg.exe"
 
 # 📁 Папка для сохранения
